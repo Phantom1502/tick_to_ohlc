@@ -1,0 +1,9 @@
+data/features/
+data/ohlc/
+data/scaler/
+R_DATA/ALL/
+R_DATA/MONTH/
+R_DATA/RAW/
+R_DATA/YEAR/
+src/__pycache__/
+src/data/__pycache__/
